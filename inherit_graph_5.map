@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,83,115,111"/>
+<area shape="rect" id="node2" href="$classupkie_1_1envs_1_1wrappers_1_1add__lag__to__action_1_1AddLagToAction.html" title="Model lag by applying a low&#45;pass filter to the action of an environment." alt="" coords="197,5,420,50"/>
+<area shape="rect" id="node3" href="$classupkie_1_1envs_1_1wrappers_1_1differentiate__action_1_1DifferentiateAction.html" title="Act on the derivative of the action." alt="" coords="188,75,428,119"/>
+<area shape="rect" id="node4" href="$classupkie_1_1envs_1_1wrappers_1_1observation__based__reward_1_1ObservationBasedReward.html" title="Redefine the reward of an environment as a function of its observation." alt="" coords="163,144,454,189"/>
+<area shape="rect" id="node5" title=" " alt="" coords="24,143,96,171"/>
+<area shape="rect" id="node6" title=" " alt="" coords="22,195,98,223"/>
+</map>

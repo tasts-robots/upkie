@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classupkie_1_1cpp_1_1sensors_1_1Sensor.html" title="Base class for sensors." alt="" coords="5,75,152,119"/>
+<area shape="rect" id="node2" href="$classupkie_1_1cpp_1_1sensors_1_1CpuTemperature.html" title="Sensor for CPU temperature readings." alt="" coords="200,5,346,50"/>
+<area shape="rect" id="node3" href="$classupkie_1_1cpp_1_1sensors_1_1Joystick.html" title="Sensor for a joystick controller." alt="" coords="200,75,346,119"/>
+<area shape="rect" id="node4" href="$classupkie_1_1cpp_1_1sensors_1_1Keyboard.html" title="Sensor for reading Keyboard inputs." alt="" coords="200,144,346,189"/>
+</map>

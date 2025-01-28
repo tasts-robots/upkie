@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,144,180"/>
+<area shape="rect" id="node2" href="$classupkie_1_1cpp_1_1exceptions_1_1UpkieError.html" title="Base class for Upkie&#45;related exceptions." alt="" coords="192,144,359,189"/>
+<area shape="rect" id="node3" href="$classupkie_1_1cpp_1_1exceptions_1_1FilterError.html" title="Exception for filter errors." alt="" coords="413,5,580,50"/>
+<area shape="rect" id="node4" href="$classupkie_1_1cpp_1_1exceptions_1_1ObserverError.html" title="Exception thrown when an observer fails." alt="" coords="413,75,580,119"/>
+<area shape="rect" id="node5" href="$classupkie_1_1cpp_1_1exceptions_1_1PositionCommandError.html" title="Exception raised when an actuation command is incorrect." alt="" coords="407,144,586,189"/>
+<area shape="rect" id="node6" href="$classupkie_1_1cpp_1_1exceptions_1_1ServoError.html" title="Exception for filter errors." alt="" coords="413,213,580,258"/>
+<area shape="rect" id="node7" href="$classupkie_1_1cpp_1_1exceptions_1_1TypeError.html" title="Exception raised when a deserialized object does not have the right type." alt="" coords="413,283,580,327"/>
+</map>
